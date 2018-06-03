@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Axels ZEShuis app</string>
+    <string name="disable_bluetooth_btn">Disable bluetooth</string>
+    <string name="enable_bluetooth_btn">Enable bluetooth</string>
+</resources>
